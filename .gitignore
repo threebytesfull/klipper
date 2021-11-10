@@ -4,3 +4,11 @@ out
 .config
 .config.old
 klippy/.version
+
+# Vagrant state and output
+.vagrant/
+ubuntu-*-console.log
+
+# CI output
+ci_build/
+ci_cache/
